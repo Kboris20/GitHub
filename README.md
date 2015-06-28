@@ -37,5 +37,5 @@ Sur le compte gitHub en ligne, créer un nouveau repertoring.
 Depuis GitHub en local, faire un clone du repertoring et y copier le dist (compréssé) de l'application statique.
 Ce dist sera alors charger sur l'application GitHub en local.
 Il suffit de selectionner tous les éléments chargés, mettre une description et appuyer sur commit pour valider les changements.
-Enfin appuyer sur Publish et synch. pour envoyer le dist au serveur GitHub, pour que notre application puisse être consultable sur le web.
+Enfin appuyer sur Publish et synch. pour envoyer le dist au serveur GitHub, pour que notre application puisse être consultable sur le Web.
 
